@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+.divisa {
+    display: flex;
+    gap: 20px;
+
+    input, select {
+        width: 50%;
+    }
+}
